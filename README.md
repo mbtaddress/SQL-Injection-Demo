@@ -65,7 +65,7 @@ docker compose up --build -d
 | Email | Password | Role |
 |-------|----------|------|
 | admin@demo.com | admin123 | admin |
-| besu@gmail.com | 123456 | admin |
+| enish@gmail.com | 123456 | admin |
 | alice@demo.com | alice123 | user |
 | bob@demo.com | bob123 | user |
 
