@@ -44,7 +44,7 @@ An intentionally vulnerable PHP web application for learning and demonstrating S
 ### Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sqlinjection-demo.git
+git clone https://github.com/mbtaddress/SQL-Injection-Demo.git
 cd sqlinjection-demo
 docker compose up --build -d
 ```
